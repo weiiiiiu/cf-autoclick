@@ -1,3 +1,6 @@
+[English](./README_en.md) | [简体中文](./README.md)
+
+---
 # CDP Extension 使用说明
 这是一个通过cdp自动点击所有cf turnstile验证码的chrome extension脚本
 按照下面步骤把扩展安装到 Chrome（或 Chromium）浏览器：
